@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Baked Salmon",
+    "ingredients": [
+      {"name": "Salmon", "amount": 1, "measurement": "lb"},
+      {"name": "A", "amount": 1, "measurement": "alb"},
+      {"name": "B", "amount": 2, "measurement": "blb"},
+      {"name": "C", "amount": 1, "measurement": "clb"},
+      {"name": "D", "amount": 0.5, "measurement": "dlb"},
+      {"name": "E", "amount": 3, "measurement": "elb"}
+    ],
+    "steps": [
+      "A1",
+      "B1",
+      "C1",
+      "D1",
+      "E1"
+    ]
+  },
+  {
+    "name": "Fish Tacos",
+    "ingredients": [
+      {"name": "Salmon", "amount": 1, "measurement": "lb"},
+      {"name": "111A", "amount": 1, "measurement": "alb"},
+      {"name": "111B", "amount": 2, "measurement": "blb"},
+      {"name": "111C", "amount": 1, "measurement": "clb"},
+      {"name": "111D", "amount": 0.5, "measurement": "dlb"},
+      {"name": "111E", "amount": 3, "measurement": "elb"}
+    ],
+    "steps": [
+      "aA1",
+      "aB1",
+      "aC1",
+      "aD1",
+      "aE1"
+    ]
+  }
+]
